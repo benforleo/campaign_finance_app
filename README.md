@@ -2,7 +2,7 @@
 
 ## An application of the Shiny package in R
 
-This repository was created as part of a school project at the University of New Hampshire which asked students to create a Shiny app in R using a dataset of the students choice. I chose to work with campaign finance data for the 2016 election cycle, and I eventually settled on individual contributions to the the top 16 presidential contendors classified as transaction type 15, 15C, and 15E.
+This repository was created as part of a school project at the University of New Hampshire which asked students to create a Shiny app in R using a dataset of the students choice. I chose to work with campaign finance data for the 2016 election cycle, and I eventually settled on individual contributions to the the top 16 presidential contenders classified as transaction type 15, 15C, and 15E.
 
 The original data file includes all contributions to federal candidates from individuals (including partnerships and LLCs) who donated in excess of $200 during the 2016 cycle. This file contains nearly 20 million rows and can be found on the FEC website [here.](https://www.fec.gov/data/browse-data/?tab=bulk-data) 
 
